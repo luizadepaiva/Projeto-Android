@@ -46,7 +46,7 @@ header>h1 {
 }
 
 header>p {
-    padding: 0px;
+    padding: 30px;
     font-size: 1.2em;
     color: white;
     font-family: var(--fonte-padrao);
